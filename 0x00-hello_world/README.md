@@ -1,1 +1,1 @@
-Write a script that generates the assembly code of a C code and save it in an output file.
+write a C program that prints exactly
