@@ -1,1 +1,1 @@
-random number
+putchar digits below 10
