@@ -1,1 +1,1 @@
-Add -a function that adds two integers
+prints natural number below 1024
