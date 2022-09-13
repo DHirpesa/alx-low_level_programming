@@ -1,1 +1,1 @@
-Print integere
+Infinite loop
