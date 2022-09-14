@@ -1,1 +1,1 @@
-copy this main file. comment out
+main for all
