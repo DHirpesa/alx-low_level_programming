@@ -1,1 +1,1 @@
-Multiple mains
+copy this main file. comment out
