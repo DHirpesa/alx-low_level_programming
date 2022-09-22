@@ -4,8 +4,9 @@
  * @dest: pointer to destination string.
  * @src: pointer to source string.
  * 
- * Return: pointer to destination string.
+ * Return: pointer to destination string. 
  */
+
 char *_strcat(char *dest, char *src)
 {
 int length, j;
@@ -20,5 +21,6 @@ for (j = 0; src[j] != '\0'; j++, length++)
 dest[length] = src[j];
 }
 dest[length] = '\0';
+
 return (dest);
 }
