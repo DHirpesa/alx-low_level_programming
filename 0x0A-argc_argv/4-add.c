@@ -10,7 +10,6 @@
  */
 
 int check_num(char *str)
-
 {
 	/*Declaring variables*/
 	unsigned int count;
@@ -68,4 +67,4 @@ int main(int argc, char *argv[])
 	printf("%d\n", sum); /*print sum*/
 
 	return (0);
-}i
+}
